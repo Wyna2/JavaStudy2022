@@ -1,4 +1,4 @@
-package Day0915;
+package JavaBasic;
 
 public class Hello {
 
