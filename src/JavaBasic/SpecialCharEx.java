@@ -1,4 +1,4 @@
-package Day0921;
+package JavaBasic;
 
 public class SpecialCharEx {
 

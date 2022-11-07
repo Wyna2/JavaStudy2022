@@ -1,4 +1,4 @@
-package Day0917;
+package JavaBasic;
 
 public class PrintfEx1 {
 
